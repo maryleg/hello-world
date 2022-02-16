@@ -1,4 +1,8 @@
 # hello-world
 Just another repository
 Another example of commit
-I love to learn
+<<<<<<< HEAD
+
+=======
+I am practicing gitbash command //second commit
+>>>>>>> origin/main
